@@ -35,7 +35,7 @@ Matrix4 updated(double x, double y, double scale) {
 
 | Previous | Next |
 | -------- | ---- |
-| [Use Multiple Flutter Versions with Puro](../0254-multiple-flutter-versions-puro/index.md) | |
+| [Use Multiple Flutter Versions with Puro](../0254-multiple-flutter-versions-puro/index.md) | [Relative & Absolute Imports in Dart](../0256-relative-absolute-imports-dart/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1963179034596065692 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-some-matrix4-apis-such-as-activity-7368945020202033156-LyAb -->
